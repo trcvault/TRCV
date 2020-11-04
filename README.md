@@ -29,4 +29,4 @@
 - PHP
 - NodeJS
 - Python
-### Loan Policy ( Loans Folder )
+### Rules( Rules Folder )
